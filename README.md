@@ -5,19 +5,19 @@
 
 ### background
 This is a project for my visualization course <br>
-    - It uses NYC taxi data for 8/2013
-    - It combined with the daily weather and borough (nta) information to the original data
-    - It uses R shiny as the main tools
-    - Packages required in this App:
-        * library(shiny)
-        * library(leaflet) for map visualization
-        * library(leaflet.extras) for traffic heatmap
-        * library(osrm) for shortest path finding and calculations
-        * library(shinyjs) for disable and enable shiny widgets
-        * library(tidyverse) for basic data processing
-        * library(nycgeo) for NYC borough and NTA data
-        * library(sf) for manipulate GIS data
-        * library(geosphere) for Haversine distance calculation
+    - It uses NYC taxi data for 8/2013 <br>
+    - It combined with the daily weather and borough (nta) information to the original data <br>
+    - It uses R shiny as the main tools <br>
+    - Packages required in this App: <br>
+        * library(shiny) <br>
+        * library(leaflet) for map visualization <br>
+        * library(leaflet.extras) for traffic heatmap <br>
+        * library(osrm) for shortest path finding and calculations <br>
+        * library(shinyjs) for disable and enable shiny widgets <br>
+        * library(tidyverse) for basic data processing <br>
+        * library(nycgeo) for NYC borough and NTA data <br>
+        * library(sf) for manipulate GIS data <br>
+        * library(geosphere) for Haversine distance calculation <br>
 
 ### functionalities support 
 * Taxi traffic visualization
