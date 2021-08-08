@@ -48,5 +48,6 @@
             * show real and ideal drive duration between two markers from taxi data and "osrm" package, respectively
             * show estimated cost from taxi data
         - If your start and destination markers are not in the taxi database, click "reserve confirmed" button will only return the ideal distance and duration, the cost is "unknown" because of lack of data.
+            * You can see from the image, there are two red dots near the start and destination points, respectively, those red dots are the real data from Taxi data
 
 ### Happy exploring! Star if you like it!
