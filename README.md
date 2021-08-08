@@ -4,7 +4,7 @@
 
 
 ### background
-This is a project for my visualization course
+This is a project for my visualization course <br>
     - It uses NYC taxi data for 8/2013
     - It combined with the daily weather and borough (nta) information to the original data
     - It uses R shiny as the main tools
