@@ -30,7 +30,7 @@ This is a project for my visualization course
         - The two red NTAs are two airports
         - Manhattan has heavy taxi traffic too 
     3. Taxi traffic with drive speed visualization
-    ![speed](img/spped.png)
+    ![speed](img/speed.png)
         - Speed averaged by NTA region
         - The more red, the slower speed
         - most region in NYC has heavy traffic in average
