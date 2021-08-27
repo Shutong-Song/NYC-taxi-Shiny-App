@@ -1,6 +1,6 @@
 # NYC taxi data visualization and services using Shiny
 
-## check out this app live on Shiny host: https://simonsong-first-shiny.shinyapps.io/NYC_taxi_service/
+## check out this app live on Shiny server: https://simonsong-first-shiny.shinyapps.io/NYC_taxi_service/
 
 
 ### background
