@@ -75,7 +75,7 @@ server <- function(input, output, session){
     poppal <- colorNumeric(palette = colorRampPalette(c("gray","blue", "red"))(length(pop_traffic$n)),
                            domain = pop_traffic$n)
     output$mymap <- renderLeaflet({
-        mymap <- leaflet(sf::st_transform(pop_traffic, crs="EPSG:4326")) %>%
+        mymap <- leaflet(sf::st_transform(pop_traffic, crs = "ESRI:102003")) %>%
             setView(lng = -73.98928, lat = 40.75042, zoom = 10) %>%
             clearHeatmap() %>%
             addProviderTiles("Esri.WorldStreetMap", options = providerTileOptions(noWrap = TRUE)) %>%
