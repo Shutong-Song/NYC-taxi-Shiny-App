@@ -3,3 +3,5 @@ libgdal-dev
 libgeos-dev 
 libproj-dev 
 netcdf-bin
+libharfbuzz-dev 
+libfribidi-dev
